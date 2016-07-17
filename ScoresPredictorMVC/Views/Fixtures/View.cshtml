@@ -4,40 +4,36 @@
     ViewBag.Title = "View";
 }
 
-<h2>View</h2>
+<h2 class="page-title">View Fixtures</h2>
 
-<table>
-    <tr>
-        <th>
-            @Html.DisplayNameFor(model => model.gameWeek)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Date)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Home_Team)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Away_Team)
-        </th>
-        <th></th>
-    </tr>
+<div>
+    <table class="table table-striped">
+        <tr>
+            <th>
+                Date
+            </th>
+            <th>
+                Home Team
+            </th>
+            <th>
+                Away Team
+            </th>
+        </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.gameWeek)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Date)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Home_Team)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Away_Team)
-        </td>
-    </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Home_Team)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Away_Team)
+                </td>
+            </tr>
+        }
 
-</table>
+    </table>
+</div>

@@ -1,0 +1,14 @@
+{
+  "stock": [
+    {
+      "user": "Daryl Wratten"
+    },
+    {
+      "user": "Michael Cole"
+    },
+    {
+      "user": "Sam Hampton"
+    }
+  ],
+  "success": 1
+}

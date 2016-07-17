@@ -3,35 +3,31 @@
     ViewBag.Title = "About";
 }
 
-<hgroup class="title">
-    <h1>@ViewBag.Title.</h1>
-    <h2>@Model.appName</h2>
+<hgroup class="page-title">
+  <h1>@ViewBag.Title.</h1>
+  <h2>@Model.appName</h2>
+
+  <article>
+    <p>
+      Use this area to provide additional information.
+    </p>
+
+    <p>
+      Use this area to provide additional information.
+    </p>
+
+    <p>
+      Use this area to provide additional information.
+    </p>
+  </article>
+
 </hgroup>
+
+<ul>
+  <li>@Html.ActionLink("Home", "Index", "Home")</li>
+  <li>@Html.ActionLink("About", "About", "Home")</li>
+  <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+</ul>
 
 <div>By @Model.appDeveloper</div>
 
-<article>
-    <p>
-        Use this area to provide additional information.
-    </p>
-
-    <p>
-        Use this area to provide additional information.
-    </p>
-
-    <p>
-        Use this area to provide additional information.
-    </p>
-</article>
-
-<aside>
-    <h3>Aside Title</h3>
-    <p>
-        Use this area to provide additional information.
-    </p>
-    <ul>
-        <li>@Html.ActionLink("Home", "Index", "Home")</li>
-        <li>@Html.ActionLink("About", "About", "Home")</li>
-        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
-    </ul>
-</aside>

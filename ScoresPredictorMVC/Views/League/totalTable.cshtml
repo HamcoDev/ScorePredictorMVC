@@ -1,0 +1,38 @@
+﻿@model List<ScoresPredictorMVC.Models.UserScore>
+
+@{
+    ViewBag.Title = "League Table";
+}
+
+<h2 class="page-title">@ViewBag.Title</h2>
+
+<ul class="nav nav-tabs nav-justified">
+    <li role="presentation" class="active"><a>Total</a></li>
+    <li role="presentation"><a href="@Url.Action("weekTable", "League")">Weekly</a></li>
+</ul>
+
+<div>
+    <table class="table table-striped">
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Points
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.name)
+                </td>
+                <td id="scoreItem">
+                    @Html.DisplayFor(modelItem => item.totalScore)
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

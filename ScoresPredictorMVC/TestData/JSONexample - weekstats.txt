@@ -1,0 +1,65 @@
+{
+  "stock": [
+    {
+      "name": "mattygdub",
+      "weekScore": "12"
+    },
+    {
+      "name": "jcastelino",
+      "weekScore": "27"
+    },
+    {
+      "name": "Alex Harrington",
+      "weekScore": "4"
+    },
+    {
+      "name": "Sam Hampton",
+      "weekScore": "212"
+    },
+    {
+      "name": "Michael Cole",
+      "weekScore": "1"
+    },
+    {
+      "name": "sodjfo",
+      "weekScore": "12"
+    },
+    {
+      "name": "sldljf",
+      "weekScore": "34588"
+    },
+    {
+      "name": "kljsddfosfpokspofsd",
+      "weekScore": "228"
+    },
+    {
+      "name": "Sam Hason",
+      "weekScore": "230"
+    },
+    {
+      "name": "klso88",
+      "weekScore": "43"
+    },
+    {
+      "name": "Alex Harrington",
+      "weekScore": "4"
+    },
+    {
+      "name": "Sam Hampton",
+      "weekScore": "212"
+    },
+    {
+      "name": "Michael Cole",
+      "weekScore": "1"
+    },
+    {
+      "name": "sodjfo",
+      "weekScore": "12"
+    },
+    {
+      "name": "sldljf",
+      "weekScore": "34588"
+    }
+  ],
+  "success": 1
+}

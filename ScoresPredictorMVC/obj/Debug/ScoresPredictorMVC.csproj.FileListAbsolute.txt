@@ -169,8 +169,8 @@ C:\Source\Github\ScorePredictorMVC\ScoresPredictorMVC\bin\ko\System.Spatial.reso
 C:\Source\Github\ScorePredictorMVC\ScoresPredictorMVC\bin\ru\System.Spatial.resources.dll
 C:\Source\Github\ScorePredictorMVC\ScoresPredictorMVC\bin\zh-Hans\System.Spatial.resources.dll
 C:\Source\Github\ScorePredictorMVC\ScoresPredictorMVC\bin\zh-Hant\System.Spatial.resources.dll
-C:\Source\Github\ScorePredictorMVC\ScoresPredictorMVC\obj\Debug\ScoresPredictorMVC.csprojResolveAssemblyReference.cache
 C:\Source\Github\ScorePredictorMVC\ScoresPredictorMVC\obj\Debug\ScoresPredictorMVC.Migrations.InitialCreate.resources
 C:\Source\Github\ScorePredictorMVC\ScoresPredictorMVC\obj\Debug\ScoresPredictorMVC.csproj.GenerateResource.Cache
 C:\Source\Github\ScorePredictorMVC\ScoresPredictorMVC\obj\Debug\ScoresPredictorMVC.dll
 C:\Source\Github\ScorePredictorMVC\ScoresPredictorMVC\obj\Debug\ScoresPredictorMVC.pdb
+C:\Source\Github\ScorePredictorMVC\ScoresPredictorMVC\obj\Debug\ScoresPredictorMVC.csprojResolveAssemblyReference.cache

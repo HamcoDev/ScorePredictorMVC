@@ -1,41 +1,44 @@
-﻿@model IEnumerable<ScoresPredictorMVC.Models.Fixture>
+﻿@model IEnumerable<ScoresPredictorMVC.Models.Prediction>
 
 @{
-    ViewBag.Title = "Edit Predictions";
+    ViewBag.Title = "View Predictions";
 }
 
-<h2>@ViewBag.Title</h2>
+<h2 class="page-title">@ViewBag.Title</h2>
 
-<table>
-    <tr>
-        <th>
-            <p>Date</p>
-        </th>
-        <th>
-            <p>Home Team</p>
-        </th>
-        <th>
-            <p>Away Team</p>
-        </th>
-        <th></th>
-    </tr>
+<table class="table table-striped">
+  <tr>
+    @*<th></th>*@
+    <th>
+      <p>Home Team</p>
+    </th>
+    <th></th>
+    <th></th>
+    <th>
+      <p>Away Team</p>
+    </th>
+  </tr>
 
-    @foreach (var fixture in Model)
+    @foreach (var prediction in Model)
     {
-        <tr>
-            <td>
-                @fixture.Date
-            </td>
-            <td>
-                @fixture.Home_Team
-            </td>
-            <td>
-                @fixture.Away_Team
-            </td>
-            <td>
-                <div class="btn btn-danger">@Html.ActionLink("Edit", "Enter", new { id = fixture.fixtureId })</div>
-            </td>
-        </tr>
+      <tr>
+        @*<td>
+          <div class="btn btn-default">@Html.ActionLink("Edit", "Enter", new { id = prediction.FixtureID })</div>
+        </td>*@
+        <td>
+          @prediction.homeTeam
+        </td>
+        <td>
+          <input id="homeTeamScore" type="number" min="0" max="9" placeholder="@prediction.homeTeamScore"/>
+        </td>
+        <td>
+          <input id="awayTeamScore" type="number" min="0" max="9" placeholder="@prediction.awayTeamScore"/>
+        </td>
+        <td>
+          @prediction.awayTeam
+        </td>
+
+      </tr>
     }
 
 </table>

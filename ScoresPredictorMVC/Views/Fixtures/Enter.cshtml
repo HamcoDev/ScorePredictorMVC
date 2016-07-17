@@ -9,15 +9,22 @@
 </div>
 
 <div class="container-fluid">
-    <div class="row ">
-        <div class="col-md-offset-5">@Html.DisplayFor(Model => Model.Date)</div>
-    </div>
-    <div class="row">
-        <div class="col-md-2 col-md-offset-3">@Html.DisplayFor(Model => Model.Home_Team)</div>
-        <div class="col-md-2 col-md-offset-2">@Html.DisplayFor(Model => Model.Away_Team)</div>
-    </div>
-    <div class="row">
-        <input id="homeTeamScore" type="number" min="0" max="9" class="col-md-1 col-md-offset-4" placeholder="0" />
-        <input id="awayTeamScore" type="number" min="0" max="9" class="col-md-1 col-md-offset-2" placeholder="0" />
-    </div>
+    <form action="/" method="post">
+        <div class="row ">
+            <div class="col-md-offset-5">@Html.DisplayFor(Model => Model.Date)</div>
+        </div>
+        <div class="row">
+            <div class="col-md-2 col-md-offset-3">@Html.DisplayFor(Model => Model.Home_Team)</div>
+            <div class="col-md-2 col-md-offset-2">@Html.DisplayFor(Model => Model.Away_Team)</div>
+        </div>
+        <div class="row">
+            <input id="homeTeamScore" type="number" min="0" max="9" class="col-md-1 col-md-offset-4" placeholder="0" />
+            <input id="awayTeamScore" type="number" min="0" max="9" class="col-md-1 col-md-offset-2" placeholder="0" />
+        </div>
+        <div class="row"></div>
+        <div class="row">
+            <button type="button" class="btn btn-primary col-md-2 col-md-offset-5">Button</button>
+        </div>
+
+    </form>
 </div>

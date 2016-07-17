@@ -1,0 +1,45 @@
+{
+  "stock": [
+    {
+      "name": "mattygdub",
+      "totalScore": "0"
+    },
+    {
+      "name": "jcastelino",
+      "totalScore": "0"
+    },
+    {
+      "name": "Alex Harrington",
+      "totalScore": "0"
+    },
+    {
+      "name": "Sam Hampton",
+      "totalScore": "0"
+    },
+    {
+      "name": "Michael Cole",
+      "totalScore": "0"
+    },
+    {
+      "name": "sodjfo",
+      "totalScore": "12"
+    },
+    {
+      "name": "sldljf",
+      "totalScore": "34588"
+    },
+    {
+      "name": "kljsddfosfpokspofsd",
+      "totalScore": "228"
+    },
+    {
+      "name": "Sam Hason",
+      "totalScore": "230"
+    },
+    {
+      "name": "klso88",
+      "totalScore": "43"
+    }
+  ],
+  "success": 1
+}

@@ -1,0 +1,145 @@
+{
+  "stock": [
+    {
+      "UserID": "1",
+      "homeTeam": "Watford",
+      "homeScore": "1",
+      "awayTeam": "Manchester United",
+      "awayScore": "3"
+    },
+    {
+      "UserID": "1",
+      "homeTeam": "Chelsea",
+      "homeScore": "3",
+      "awayTeam": "Norwich City",
+      "awayScore": "1"
+    },
+    {
+      "UserID": "1",
+      "homeTeam": "West Bromwich Albion",
+      "homeScore": "1",
+      "awayTeam": "Arsenal",
+      "awayScore": "3"
+    },
+    {
+      "UserID": "1",
+      "homeTeam": "Newcastle United",
+      "homeScore": "1",
+      "awayTeam": "Leicester City",
+      "awayScore": "1"
+    },
+    {
+      "UserID": "1",
+      "homeTeam": "Swansea City",
+      "homeScore": "1",
+      "awayTeam": "AFC Bournemouth",
+      "awayScore": "1"
+    },
+    {
+      "UserID": "1",
+      "homeTeam": "Everton",
+      "homeScore": "1",
+      "awayTeam": "Aston Villa",
+      "awayScore": "0"
+    },
+    {
+      "UserID": "1",
+      "homeTeam": "Southampton",
+      "homeScore": "0",
+      "awayTeam": "Stoke City",
+      "awayScore": "1"
+    },
+    {
+      "UserID": "1",
+      "homeTeam": "Manchester City",
+      "homeScore": "3",
+      "awayTeam": "Liverpool",
+      "awayScore": "1"
+    },
+    {
+      "UserID": "1",
+      "homeTeam": "Tottenham Hotspur",
+      "homeScore": "2",
+      "awayTeam": "West Ham United",
+      "awayScore": "1"
+    },
+    {
+      "UserID": "1",
+      "homeTeam": "Crystal Palace",
+      "homeScore": "1",
+      "awayTeam": "Sunderland",
+      "awayScore": "0"
+    },
+    {
+      "UserID": "34",
+      "homeTeam": "Watford",
+      "homeScore": "1",
+      "awayTeam": "Manchester United",
+      "awayScore": "2"
+    },
+    {
+      "UserID": "34",
+      "homeTeam": "Chelsea",
+      "homeScore": "2",
+      "awayTeam": "Norwich City",
+      "awayScore": "1"
+    },
+    {
+      "UserID": "34",
+      "homeTeam": "West Bromwich Albion",
+      "homeScore": "0",
+      "awayTeam": "Arsenal",
+      "awayScore": "2"
+    },
+    {
+      "UserID": "34",
+      "homeTeam": "Newcastle United",
+      "homeScore": "1",
+      "awayTeam": "Leicester City",
+      "awayScore": "1"
+    },
+    {
+      "UserID": "34",
+      "homeTeam": "Swansea City",
+      "homeScore": "2",
+      "awayTeam": "AFC Bournemouth",
+      "awayScore": "1"
+    },
+    {
+      "UserID": "34",
+      "homeTeam": "Everton",
+      "homeScore": "2",
+      "awayTeam": "Aston Villa",
+      "awayScore": "0"
+    },
+    {
+      "UserID": "34",
+      "homeTeam": "Southampton",
+      "homeScore": "1",
+      "awayTeam": "Stoke City",
+      "awayScore": "1"
+    },
+    {
+      "UserID": "34",
+      "homeTeam": "Manchester City",
+      "homeScore": "2",
+      "awayTeam": "Liverpool",
+      "awayScore": "0"
+    },
+    {
+      "UserID": "34",
+      "homeTeam": "Tottenham Hotspur",
+      "homeScore": "2",
+      "awayTeam": "West Ham United",
+      "awayScore": "1"
+    },
+    {
+      "UserID": "34",
+      "homeTeam": "Crystal Palace",
+      "homeScore": "2",
+      "awayTeam": "Sunderland",
+      "awayScore": "0"
+    }
+  ],
+  "success": 1
+}

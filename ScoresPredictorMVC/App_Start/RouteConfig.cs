@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
+using DotNetOpenAuth.OpenId;
 
 namespace ScoresPredictorMVC
 {
@@ -40,14 +41,24 @@ namespace ScoresPredictorMVC
                 new { controller = "Fixtures", action = "Edit" }
             );
 
-            routes.MapRoute("Enter",
+            routes.MapRoute("EnterAll",
                 "Enter",
-                new { controller = "Fixtures", action = "Enter", id = "1" }
+                new { controller = "Fixtures", action = "EnterAll" }
             );
 
             routes.MapRoute("EnterId",
                 "Enter/{id}",
                 new { controller = "Fixtures", action = "Enter", id =  UrlParameter.Optional }
+            );
+
+            routes.MapRoute("weekTable",
+                "weekTable",
+                new { controller = "League", action = "weekTable" }
+            );
+
+            routes.MapRoute("totalTable",
+                "totalTable",
+                new { controller = "League", action = "totalTable" }
             );
 
             routes.MapRoute(

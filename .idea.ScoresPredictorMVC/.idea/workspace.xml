@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7acfaf0f-839f-4e58-9372-a272bbe3642c" name="Default" comment="" />
+    <ignored path="ScoresPredictorMVC.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ScoresPredictorMVC" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FixturesController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Controllers/FixturesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+              <folding>
+                <marker date="1468413971287" expanded="true" signature="6:91" ph="..." />
+                <marker date="1468413971287" expanded="true" signature="133:1529" ph="{...}" />
+                <marker date="1468413971287" expanded="true" signature="184:1527" ph="{...}" />
+                <marker date="1468413971287" expanded="true" signature="253:395" ph="{...}" />
+                <marker date="1468413971287" expanded="true" signature="462:624" ph="{...}" />
+                <marker date="1468413971287" expanded="true" signature="692:874" ph="{...}" />
+                <marker date="1468413971287" expanded="true" signature="949:1174" ph="{...}" />
+                <marker date="1468413971287" expanded="true" signature="1280:1520" ph="{...}" />
+                <marker date="1468413971287" expanded="true" signature="1303:1483" ph="/* ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stats.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/League/Stats.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeagueController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Controllers/LeagueController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <folding>
+                <marker date="1468532651680" expanded="true" signature="6:54" ph="..." />
+                <marker date="1468532651680" expanded="true" signature="97:622" ph="{...}" />
+                <marker date="1468532651680" expanded="true" signature="146:620" ph="{...}" />
+                <marker date="1468532651680" expanded="true" signature="226:338" ph="{...}" />
+                <marker date="1468532651680" expanded="true" signature="415:528" ph="{...}" />
+                <marker date="1468532651680" expanded="true" signature="540:620" ph="{...}" />
+                <marker date="1468532651680" expanded="true" signature="574:613" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Edit.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/Fixtures/Edit.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <folding>
+                <marker date="1468584831676" expanded="true" signature="58:102" ph="@..." />
+                <marker date="1468584831676" expanded="true" signature="148:945" ph="&lt;.../&gt;" />
+                <marker date="1468584831676" expanded="true" signature="186:328" ph="&lt;.../&gt;" />
+                <marker date="1468584831676" expanded="true" signature="213:250" ph="&lt;.../&gt;" />
+                <marker date="1468584831676" expanded="true" signature="283:320" ph="&lt;.../&gt;" />
+                <marker date="1468584831676" expanded="true" signature="334:935" ph="@..." />
+                <marker date="1468584831676" expanded="true" signature="381:929" ph="&lt;.../&gt;" />
+                <marker date="1468584831676" expanded="true" signature="394:530" ph="@*...*@" />
+                <marker date="1468584831676" expanded="true" signature="539:588" ph="&lt;.../&gt;" />
+                <marker date="1468584831676" expanded="true" signature="597:723" ph="&lt;.../&gt;" />
+                <marker date="1468584831676" expanded="true" signature="732:858" ph="&lt;.../&gt;" />
+                <marker date="1468584831676" expanded="true" signature="867:916" ph="&lt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/Shared/_Layout.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="81" column="35" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
+              <folding>
+                <marker date="1468585425008" expanded="true" signature="16:4008" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="24:343" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="345:3999" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="357:1985" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="459:1974" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="499:551" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="564:767" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="600:749" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="780:978" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="801:960" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="991:1199" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="1012:1181" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="1212:1406" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="1233:1388" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="1417:1588" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="1434:1572" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="1599:1767" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="1616:1751" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="1778:1960" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="1799:1942" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="1991:3680" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="2018:3298" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="2051:3283" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="2097:2615" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="2157:2365" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="2186:2339" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="2386:2593" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="2633:3264" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="2780:2963" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="2981:3242" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="3307:3669" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="3360:3414" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="3428:3654" ph="&lt;.../&gt;" />
+                <marker date="1468585425008" expanded="true" signature="3486:3635" ph="&lt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="About.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/Home/About.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              <folding>
+                <marker date="1468585553156" expanded="true" signature="44:77" ph="@..." />
+                <marker date="1468585553156" expanded="true" signature="81:434" ph="&lt;.../&gt;" />
+                <marker date="1468585553156" expanded="true" signature="169:421" ph="&lt;.../&gt;" />
+                <marker date="1468585553156" expanded="true" signature="184:253" ph="&lt;.../&gt;" />
+                <marker date="1468585553156" expanded="true" signature="261:330" ph="&lt;.../&gt;" />
+                <marker date="1468585553156" expanded="true" signature="338:407" ph="&lt;.../&gt;" />
+                <marker date="1468585553156" expanded="true" signature="438:617" ph="&lt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Enter.cshtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/Fixtures/Enter.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+              <folding>
+                <marker date="1468586187195" expanded="true" signature="42:87" ph="@..." />
+                <marker date="1468586187195" expanded="true" signature="89:160" ph="&lt;.../&gt;" />
+                <marker date="1468586187195" expanded="true" signature="164:853" ph="&lt;.../&gt;" />
+                <marker date="1468586187195" expanded="true" signature="197:303" ph="&lt;.../&gt;" />
+                <marker date="1468586187195" expanded="true" signature="307:518" ph="&lt;.../&gt;" />
+                <marker date="1468586187195" expanded="true" signature="522:773" ph="&lt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/Home/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1468359435999" expanded="true" signature="54:91" ph="@..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../ScoresPredictorMVC/Models/Prediction.cs" />
+        <option value="$PROJECT_DIR$/../ScoresPredictorMVC/Models/DataService.cs" />
+        <option value="$PROJECT_DIR$/../ScoresPredictorMVC/Views/Fixtures/EnterAll.cshtml" />
+        <option value="$PROJECT_DIR$/../ScoresPredictorMVC/App_Start/RouteConfig.cs" />
+        <option value="$PROJECT_DIR$/../ScoresPredictorMVC/Controllers/FixturesController.cs" />
+        <option value="$PROJECT_DIR$/../ScoresPredictorMVC/Models/Fixture.cs" />
+        <option value="$PROJECT_DIR$/../ScoresPredictorMVC/Views/League/Stats.cshtml" />
+        <option value="$PROJECT_DIR$/../ScoresPredictorMVC/Controllers/LeagueController.cs" />
+        <option value="$PROJECT_DIR$/../ScoresPredictorMVC/Views/League/Table.cshtml" />
+        <option value="$PROJECT_DIR$/../ScoresPredictorMVC/Views/Fixtures/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/../ScoresPredictorMVC/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/../ScoresPredictorMVC/Views/Home/About.cshtml" />
+        <option value="$PROJECT_DIR$/../ScoresPredictorMVC/Views/Fixtures/Enter.cshtml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1036" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shared" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Home" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fixtures" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stadium.jpg" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Properties" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AssemblyInfo.cs" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScoresPredictorMVC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filters" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InitializeSimpleMembershipAttribute.cs" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ScoresPredictorMVC.sln" />
+    <property name="SearchEverywhereHistoryKey" value="fixt&#9;FILE&#9;file://C:/Source/Github/ScorePredictorMVC/ScoresPredictorMVC/Controllers/FixturesController.cs" />
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../ScoresPredictorMVC/ScoresPredictorMVC.csproj" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="EXE_PATH" value="C:/Program Files (x86)/IIS Express/iisexpress.exe" />
+      <option name="PROGRAM_PARAMETERS" value="/config:$PROJECT_DIR$/../.idea/config/applicationhost.config /site:ScoresPredictorMVC /apppool:Clr4IntegratedAppPool" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ScoresPredictorMVC" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7acfaf0f-839f-4e58-9372-a272bbe3642c" name="Default" comment="" />
+      <created>1468394538029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1468394538029</updated>
+      <workItem from="1468394540266" duration="5781000" />
+      <workItem from="1468444820245" duration="650000" />
+      <workItem from="1468480615762" duration="1931000" />
+      <workItem from="1468583214740" duration="2121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10483000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.50357145" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21166307" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21274298" sideWeight="0.50238097" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17440476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.49642858" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Controllers/FixturesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+          <folding>
+            <marker date="1468413971287" expanded="true" signature="6:91" ph="..." />
+            <marker date="1468413971287" expanded="true" signature="133:1529" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="184:1527" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="253:395" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="462:624" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="692:874" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="949:1174" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="1280:1520" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="1303:1483" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/League/Stats.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Controllers/LeagueController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1468532651680" expanded="true" signature="6:54" ph="..." />
+            <marker date="1468532651680" expanded="true" signature="97:622" ph="{...}" />
+            <marker date="1468532651680" expanded="true" signature="146:620" ph="{...}" />
+            <marker date="1468532651680" expanded="true" signature="226:338" ph="{...}" />
+            <marker date="1468532651680" expanded="true" signature="415:528" ph="{...}" />
+            <marker date="1468532651680" expanded="true" signature="540:620" ph="{...}" />
+            <marker date="1468532651680" expanded="true" signature="574:613" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/League/table.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Controllers/FixturesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1468413971287" expanded="true" signature="6:91" ph="..." />
+            <marker date="1468413971287" expanded="true" signature="133:1529" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="184:1527" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="253:395" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="462:624" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="692:874" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="949:1174" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="1280:1520" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="1303:1483" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Controllers/FixturesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1468413971287" expanded="true" signature="6:91" ph="..." />
+            <marker date="1468413971287" expanded="true" signature="133:1529" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="184:1527" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="253:395" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="462:624" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="692:874" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="949:1174" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="1280:1520" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="1303:1483" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Controllers/PredictionsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/Fixtures/View.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/Fixtures/EnterAll.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/App_Start/RouteConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Models/Fixture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Models/Prediction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Models/DataService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="59" column="67" selection-start-line="59" selection-start-column="67" selection-end-line="59" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v06/DecompilerCache/decompiler/40C0730F-DB39-4BE9-B184-1864656F2572/ff/96db4953/WebPageBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="298" column="24" selection-start-line="298" selection-start-column="24" selection-end-line="298" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Global.asax">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Global.asax.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Controllers/FixturesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+          <folding>
+            <marker date="1468413971287" expanded="true" signature="6:91" ph="..." />
+            <marker date="1468413971287" expanded="true" signature="133:1529" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="184:1527" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="253:395" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="462:624" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="692:874" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="949:1174" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="1280:1520" ph="{...}" />
+            <marker date="1468413971287" expanded="true" signature="1303:1483" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/League/Stats.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/League/table.cshtml" />
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Controllers/LeagueController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <marker date="1468532651680" expanded="true" signature="6:54" ph="..." />
+            <marker date="1468532651680" expanded="true" signature="97:622" ph="{...}" />
+            <marker date="1468532651680" expanded="true" signature="146:620" ph="{...}" />
+            <marker date="1468532651680" expanded="true" signature="226:338" ph="{...}" />
+            <marker date="1468532651680" expanded="true" signature="415:528" ph="{...}" />
+            <marker date="1468532651680" expanded="true" signature="540:620" ph="{...}" />
+            <marker date="1468532651680" expanded="true" signature="574:613" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/Fixtures/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <marker date="1468584831676" expanded="true" signature="58:102" ph="@..." />
+            <marker date="1468584831676" expanded="true" signature="148:945" ph="&lt;.../&gt;" />
+            <marker date="1468584831676" expanded="true" signature="186:328" ph="&lt;.../&gt;" />
+            <marker date="1468584831676" expanded="true" signature="213:250" ph="&lt;.../&gt;" />
+            <marker date="1468584831676" expanded="true" signature="283:320" ph="&lt;.../&gt;" />
+            <marker date="1468584831676" expanded="true" signature="334:935" ph="@..." />
+            <marker date="1468584831676" expanded="true" signature="381:929" ph="&lt;.../&gt;" />
+            <marker date="1468584831676" expanded="true" signature="394:530" ph="@*...*@" />
+            <marker date="1468584831676" expanded="true" signature="539:588" ph="&lt;.../&gt;" />
+            <marker date="1468584831676" expanded="true" signature="597:723" ph="&lt;.../&gt;" />
+            <marker date="1468584831676" expanded="true" signature="732:858" ph="&lt;.../&gt;" />
+            <marker date="1468584831676" expanded="true" signature="867:916" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="81" column="35" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
+          <folding>
+            <marker date="1468585425008" expanded="true" signature="16:4008" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="24:343" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="345:3999" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="357:1985" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="459:1974" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="499:551" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="564:767" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="600:749" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="780:978" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="801:960" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="991:1199" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="1012:1181" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="1212:1406" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="1233:1388" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="1417:1588" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="1434:1572" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="1599:1767" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="1616:1751" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="1778:1960" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="1799:1942" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="1991:3680" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="2018:3298" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="2051:3283" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="2097:2615" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="2157:2365" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="2186:2339" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="2386:2593" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="2633:3264" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="2780:2963" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="2981:3242" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="3307:3669" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="3360:3414" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="3428:3654" ph="&lt;.../&gt;" />
+            <marker date="1468585425008" expanded="true" signature="3486:3635" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1468359435999" expanded="true" signature="54:91" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/Home/About.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <marker date="1468585553156" expanded="true" signature="44:77" ph="@..." />
+            <marker date="1468585553156" expanded="true" signature="81:434" ph="&lt;.../&gt;" />
+            <marker date="1468585553156" expanded="true" signature="169:421" ph="&lt;.../&gt;" />
+            <marker date="1468585553156" expanded="true" signature="184:253" ph="&lt;.../&gt;" />
+            <marker date="1468585553156" expanded="true" signature="261:330" ph="&lt;.../&gt;" />
+            <marker date="1468585553156" expanded="true" signature="338:407" ph="&lt;.../&gt;" />
+            <marker date="1468585553156" expanded="true" signature="438:617" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ScoresPredictorMVC/Views/Fixtures/Enter.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+          <folding>
+            <marker date="1468586187195" expanded="true" signature="42:87" ph="@..." />
+            <marker date="1468586187195" expanded="true" signature="89:160" ph="&lt;.../&gt;" />
+            <marker date="1468586187195" expanded="true" signature="164:853" ph="&lt;.../&gt;" />
+            <marker date="1468586187195" expanded="true" signature="197:303" ph="&lt;.../&gt;" />
+            <marker date="1468586187195" expanded="true" signature="307:518" ph="&lt;.../&gt;" />
+            <marker date="1468586187195" expanded="true" signature="522:773" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
